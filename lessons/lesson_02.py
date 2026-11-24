@@ -1,4 +1,4 @@
-# Aufgabe 2 (type() Rechenoperatoren  )
+# Lesson 2 (type() Rechenoperatoren [+, -, *, /])
 
 name = "Linus"
 alter = 22
